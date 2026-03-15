@@ -90,7 +90,8 @@ springdoc.swagger-ui.path=/swagger-ui.html
 
 ```bash
 # Cloner le projet
-git clone <url-du-repo>
+git clone  https://github.com/mohamed31123/spring-boot-student.git
+
 cd lab-spring-8
 
 # Compiler et lancer
@@ -233,6 +234,6 @@ mvn test
 
 ---
 
-## 👤 Auteur
+## 👤 Auteur  : EDDINARI MOHAMED
 
 Projet réalisé dans le cadre des labs Spring Boot — FST.
